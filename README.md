@@ -1,6 +1,6 @@
 # Software-engineering-journey
 my journey as a Software Engineer 
-# Software Engineering Journey 🚀
+
 
 Hi, I'm Smash.
 
